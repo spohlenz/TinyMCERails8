@@ -62,4 +62,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "tinymce-rails", "~> 7.4"
+gem "tinymce-rails", "~> 7.6"
